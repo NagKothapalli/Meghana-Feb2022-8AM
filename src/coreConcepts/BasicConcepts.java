@@ -1,5 +1,5 @@
 package coreConcepts;
-
+//https://github.com/NagKothapalli/Meghana-Feb2022-8AM.git
 //Signature : CLASS
  // Modifier   class  Name{ Body : Members -> variables / functions  }
  //Access Modifiers : private, default , protected , public
@@ -47,6 +47,11 @@ public class BasicConcepts
 	 {
 		 int div = 30/20;
 		 System.out.println("Division of two numbers :" + div);
+	 }
+	 public static void division_R()
+	 {
+		 int rem = 30%20;
+		 System.out.println("Division of two numbers :" + rem);
 	 }
 	
 	
