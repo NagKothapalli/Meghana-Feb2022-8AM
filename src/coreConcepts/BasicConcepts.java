@@ -20,14 +20,26 @@ public class BasicConcepts
 	            // NO - void        //DataType arg1,DataType arg2, .......
 	            // YES - int,String , char , boolean
 	 //psvm
-	 public static void main(String[] args) //class reader
-	 {
-		System.out.println("Welcome to Selenium Java"); 
-		addition();
-		subtraction();
-		multiplication();
-		division();
-	 }
+	
+	  public static void main(String[] args) //class reader
+	  {
+		  System.out.println("Welcome to Selenium Java");
+		  division_R();
+		  addition();		  
+		  multiplication();
+		  division_R();
+		  addition();		  
+		  multiplication();
+		  division_R();
+		  addition();		  
+		  multiplication();
+		  division_R();
+		  addition();		  
+		  multiplication();
+		  division();
+		  subtraction();
+	  }
+	 
 	 int empNum;
 	 //int empNum;
 	 public static void addition() //normal student
