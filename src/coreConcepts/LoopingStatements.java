@@ -42,7 +42,7 @@ public class LoopingStatements
 	@Test
 	public void applyRedColorToAlternateSteps()
 	{
-		for(int i=2;i<=50;i=i+2) //1<50 3<50 5<50 .....49<50  50<50->false
+		for(int i=2;i<=50;i=i+2) //2<50 3<50 5<50 .....49<50  50<50->false
 		{//condition ->true
 			System.out.println("Apply Red Color to Step :" + i);
 		}
