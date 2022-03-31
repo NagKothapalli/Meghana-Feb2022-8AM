@@ -47,5 +47,40 @@ public class LoopingStatements
 			System.out.println("Apply Red Color to Step :" + i);
 		}
 	}
+	@Test
+	public void findStudent()
+	{
+		for(int i=1;i<=60;i++)
+		{
+			//System.out.println("Student searched :" + i);
+			if(i==22)
+			{ //true
+				System.out.println("Found the student");
+				break;
+			}
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 }
