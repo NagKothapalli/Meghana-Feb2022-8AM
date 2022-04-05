@@ -103,8 +103,11 @@ public class ConditionalStatements {
 		}
 	}
 	
-	
-	
+	//Write  a program to read a number as input and find that number is even or odd . 
+	 //  N , D    N / D -> Q       N % D -> R    N % 2 -> R : if R == 0 that number is even 	
+	//Find sum of first 10 numbers
+	//Print all even numbers in the given range [1 -  50 ] 
+	//Print all odd numbers in the given range [1 -  50 ] 
 	
 	
 	
